@@ -18,13 +18,11 @@ Javascript
 
 # Installation
 
-Clone the Repository
 
-```bash
-git clone https://github.com/priyanshtrivedi/DelhiMetroApp.git
+
 ```
 
 # Contributors
-Priyansh Trivedi
+Yogesh Mali
 
 Pull requests are welcome. for major changes please open an issue first to discuss what you would like to change.
